@@ -137,6 +137,10 @@ class InstaLogin extends StatelessWidget {
                         style: TextStyle(color: Colors.grey),
                       ),
                     ),
+
+                    // rich text tryout
+
+                    //
                   ],
                 ),
               ],
